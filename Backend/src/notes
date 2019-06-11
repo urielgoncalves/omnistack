@@ -1,0 +1,13 @@
+Extensions:
+-Dracula
+-Rocketseat ReactJS
+-Rocketseat React Native
+-express
+-nodemon
+-mongoose
+
+Font:
+-Fira code
+
+Database:
+-Mongo atlas
