@@ -6,6 +6,7 @@ Extensions:
 -nodemon
 -mongoose
 -multer //lida com os tipos de objetos enviados na requisição e multipart-formdata eautomatiza o processo de upload de arquivos
+-sharp //manipulação de imagens
 
 Font:
 -Fira code
