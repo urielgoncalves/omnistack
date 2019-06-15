@@ -8,6 +8,7 @@ Extensions:
 -multer //lida com os tipos de objetos enviados na requisição e multipart-formdata eautomatiza o processo de upload de arquivos
 -sharp //manipulação de imagens
 -cors //permitir o acesso do pront-end mesmo em domínios diferentes
+-socket.io //realtime
 
 Font:
 -Fira code
