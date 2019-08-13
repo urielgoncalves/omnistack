@@ -1,7 +1,7 @@
 const multer = require('multer');
 const path = require('path');//nativa do node para lidar com caminhos para windows e unix
 
-//exportar configrações do multer
+//exportar configurações do multer
 module.exports = {
 storage: new multer.diskStorage({
     destination: path.resolve(__dirname, '..','..','uploads'),
